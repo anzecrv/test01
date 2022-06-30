@@ -11,7 +11,7 @@ int main() {
 	scanf("%d", &stevilo);
 	
 	int fak = fakulteta(stevilo);	//spremenljivka za fakulteto stevila 
-	int fakRek; // spremenljivka za rekurzivno fakulteto
+	int fakRek = fakultetaRekurzija(stevilo); // spremenljivka za rekurzivno fakulteto
 	printf("tvoje stevilo je %d\n", vrniStevilo(stevilo));
 	printf("fakulteta tvojega stevila je %d\n", fak);
 	printf("Fakulteta v rekurzivni obliki, bi mogla vrnt isto: %d\n", fakRek);
