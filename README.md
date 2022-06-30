@@ -25,7 +25,7 @@ Tukej ti dodam seznam:
 
 ## - BUGLIST -
 
--bug1
--bug2
--bug3
--bug4
+- bug1
+- bug2
+- bug3
+- bug4
