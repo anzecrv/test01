@@ -22,3 +22,10 @@ Tukej ti dodam seznam:
 - prvi element seznama
 - drugi in tako dalje
 - nov element
+
+## - BUGLIST -
+
+-bug1
+-bug2
+-bug3
+-bug4
