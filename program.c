@@ -5,18 +5,16 @@ int fakultetaRekurzija(int n);
 int vrniStevilo(int i);
 
 
-
-
 int main() {
 	int stevilo;
 	printf("Napisi stevilo: ");
 	scanf("%d", &stevilo);
 	
 	int fak = fakulteta(stevilo);	//spremenljivka za fakulteto stevila 
-	
+	int fakRek; // spremenljivka za rekurzivno fakulteto
 	printf("tvoje stevilo je %d\n", vrniStevilo(stevilo));
 	printf("fakulteta tvojega stevila je %d\n", fak);
-	
+	printf("Fakulteta v rekurzivni obliki, bi mogla vrnt isto: %d\n", fakRek);
 	//printf("%d", fakulteta(5));
 	return 0;
 }
