@@ -21,3 +21,4 @@ kaj bomo delli v nadaljnje
 Tukej ti dodam seznam:
 - prvi element seznama
 - drugi in tako dalje
+- nov element
