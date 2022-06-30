@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int fakulteta(int i);
+int fakultetaRekurzija(int n);
 int vrniStevilo(int i);
 
 
@@ -28,6 +29,14 @@ int fakulteta(int j)
 		rez *= i;
 	}
 	return rez;
+}
+
+int fakultetaRekurzija(int n) {
+	if (n == 1) {
+		return 1;
+	}
+	
+	return n * fakultetaRekurzija(n - 1);
 }
 
 int vrniStevilo(int i) {
