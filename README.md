@@ -8,7 +8,16 @@ Js in čru testiramo in se učimo git. Nova poved, k ma ful smisla. Git gud bitc
 
 - Prvi element
 - Drugi element
+- Tretji element
+
+Nov seznam spodaj
+
+- Prvi nov element
 
 ## Nactri za prihodnost
 
 kaj bomo delli v nadaljnje
+
+Tukej ti dodam seznam:
+- prvi element seznama
+- drugi in tako dalje
